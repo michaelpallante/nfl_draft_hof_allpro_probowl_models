@@ -18,13 +18,13 @@ The dataset that was analyzed for this study contains 30 years of NFL Draft, NFL
 
 **Python Notebooks:**
 <br>
-[Exploratory Data Analysis](https://github.com/michaelpallante/nfl_draft_hof_allpro_probowl_models/blob/master/notebooks/nfl_eda.ipynb)
+[Exploratory Data Analysis](https://github.com/michaelpallante/nfl_draft_hof_allpro_probowl_models/blob/master/notebooks/nfl_player_projections_eda.ipynb)
 <br>
-[Technical Notebook](https://github.com/michaelpallante/nfl_draft_hof_allpro_probowl_models/blob/master/notebooks/nfl_technical_notebook.ipynb)
+[Technical Notebook](https://github.com/michaelpallante/nfl_draft_hof_allpro_probowl_models/blob/master/notebooks/nfl_player_projections_technical_notebook.ipynb)
 
 **Presentation:**
 <br>
-[Presentation Slide Deck](https://github.com/michaelpallante/nfl_draft_hof_allpro_probowl_models/blob/master/presentation/)
+[Presentation Slide Deck](https://github.com/michaelpallante/nfl_draft_hof_allpro_probowl_models/tree/master/presentation)
 
 **Data Folder (all downloaded data and modified datasets used in our notebooks):**
 <br>
