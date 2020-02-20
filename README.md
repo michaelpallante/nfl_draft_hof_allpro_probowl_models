@@ -8,11 +8,11 @@
 
 ## Project Goals:
 
-- Using college player statistics within models to make NFL Draft, Hall of Fame, All-Pro, and Pro Bowl projections for players before they play in the NFL.
+- Building models with college player statistics to make NFL Draft, Hall of Fame, All-Pro, and Pro Bowl player projections (before they play in the NFL).
 
 ## Summary of Data:
 
-The dataset that was analyzed for this study contains 30 years of NFL Combine and NFL Draft data, dating from 1985-2015. The NFL Combine data primarily displays the performance of players over that time period in combine drills. The NFL Draft data contains the draft pick information of players from that time span, including what round they were selected in and the team that picked them.
+The dataset that was analyzed for this study contains 30 years of NFL Draft, NFL Combine, and NCAA Football PLayer Statistics data, dating from 1985-2015. The NFL Draft data contains the draft pick information of players from that time span, including what round they were selected in and the team that picked them. The NFL Combine data primarily displays the performance of players over that time period in combine drills. The NCAA Football Player Statistics data contains full college career statistics accumulated by players in all games during their career.
 
 ## Summary of Files:
 
