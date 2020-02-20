@@ -26,10 +26,10 @@ The dataset that was analyzed for this study contains 30 years of NFL Draft, NFL
 <br>
 [Presentation Slide Deck](https://github.com/michaelpallante/nfl_draft_hof_allpro_probowl_models/tree/master/presentation)
 
-**Data Folder (all downloaded data and modified datasets used in our notebooks):**
+**Data Folder (all downloaded data and modified datasets used in the notebooks):**
 <br>
 [Data](https://github.com/michaelpallante/nfl_draft_hof_allpro_probowl_models/tree/master/data)
 
-**Python Files Folder (any python files used in our notebooks):**
+**Python Files Folder (any python files used in the notebooks):**
 <br>
 [Python Files](https://github.com/michaelpallante/nfl_draft_hof_allpro_probowl_models/tree/master/python_files)
