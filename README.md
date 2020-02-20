@@ -8,7 +8,7 @@
 
 ## Project Goals:
 
-- Building models with college player statistics to make NFL Draft, Hall of Fame, All-Pro, and Pro Bowl player projections (before they play in the NFL).
+- Building models with college player statistics to make NFL Draft, Hall of Fame, All-Pro, and Pro Bowl player projections before they play in the NFL.
 
 ## Summary of Data:
 
