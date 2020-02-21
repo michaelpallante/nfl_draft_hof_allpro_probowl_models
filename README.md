@@ -1,4 +1,4 @@
-# NFL Player Projection Models
+# NFL Running Back Projection Models
 
 ![NFL Draft](https://www.grandforksherald.com/incoming/article1056477.ece/alternates/BASE_LANDSCAPE/2490107%2B042916.s.ff_.wentznfldraft3.JPG)
 
