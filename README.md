@@ -8,7 +8,7 @@
 
 ## Project Goals:
 
-- Building models with college player statistics to make NFL Draft, Hall of Fame, All-Pro First Team, and Pro Bowl running back projections before they play in the NFL.
+- Using college football player statistics to build predictive models that forecast a running back's NFL Draft, Hall of Fame, All-Pro, and Pro Bowl projections before they play in the NFL.
 
 ## Summary of Data:
 
