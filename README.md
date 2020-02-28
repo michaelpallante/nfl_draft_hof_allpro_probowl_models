@@ -1,6 +1,6 @@
 # NFL Running Back Projection Models
 
-![NFL Draft](https://www.grandforksherald.com/incoming/article1056477.ece/alternates/BASE_LANDSCAPE/2490107%2B042916.s.ff_.wentznfldraft3.JPG)
+![LeSean McCoy, Philadelphia Eagles All-Time Leading Rusher, Second Round Running Back](https://media.giphy.com/media/3otPoJ1c8UJzK85Quk/giphy.gif)
 
 ## Author: 
 
